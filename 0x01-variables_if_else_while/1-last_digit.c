@@ -21,6 +21,10 @@ int main(void)
 		printf("Last digit of %d is %d and 0\n", n, n % 10);
 	else
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, n % 10);
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> 58a8aad548ea307714cf748fcbbc4e0bbec871e0
 	return (0);
 }
